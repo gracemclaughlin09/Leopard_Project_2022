@@ -6,3 +6,7 @@ how to get to kelley lab
 ```
 cd /data/kelley/projects/
 ```
+how to get to my directory 
+```
+cd grace 
+```
