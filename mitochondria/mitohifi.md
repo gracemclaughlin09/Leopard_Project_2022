@@ -10,3 +10,11 @@ how to get to my directory
 ```
 cd grace 
 ```
+how to move back one to projects 
+```
+cd ../
+```
+where am I? 
+```
+pwd
+```
